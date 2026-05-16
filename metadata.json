@@ -1,0 +1,6 @@
+{
+  "name": "Advocate Legal Services",
+  "description": "A professional legal services web platform for a senior advocate at the Bombay High Court.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
